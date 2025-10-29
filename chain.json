@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-10-29T16:29:28.908260",
+    "tx": [
+      {
+        "inputs": [
+          {
+            "txid": "genesis1",
+            "vout": 0
+          }
+        ],
+        "outputs": [
+          {
+            "address": "08585339bbb5477c0f25e812663b6b558e",
+            "amount": 0.3
+          },
+          {
+            "address": "3fa093262bd8b8933902763a9cab4bab2d",
+            "amount": 1.1999
+          }
+        ],
+        "timestamp": 1761755368.9072251,
+        "txid": "ba561eb1fd070a2415a70cae34fe3ad47b8cc485e98a629dde34896a05a4a932",
+        "signature": "b8b7f841fb340676c4c89ddb2e86fcd5a0bbc126c1067af0ec1cf7ec0868c3416eed5ad0f4f8fc4c90d5d43d2688e365f92d3bd9b41d58cabbd122dbcffef7a5"
+      }
+    ],
+    "miner": "cb0d33be01fafad01a4229b73ac1c3a5e1",
+    "nonce": 815,
+    "hash": "0008a2f7e7a41bd8788de1e528c0476f7627539418b57df1c192709c3f653aef"
+  },
+  {
+    "timestamp": "2025-10-29T16:29:28.910370",
+    "tx": [
+      {
+        "inputs": [
+          {
+            "txid": "ba561eb1fd070a2415a70cae34fe3ad47b8cc485e98a629dde34896a05a4a932",
+            "vout": 1
+          }
+        ],
+        "outputs": [
+          {
+            "address": "08585339bbb5477c0f25e812663b6b558e",
+            "amount": 0.4
+          },
+          {
+            "address": "9458187c8229c78d08946089784c1e36a4",
+            "amount": 0.2
+          },
+          {
+            "address": "3fa093262bd8b8933902763a9cab4bab2d",
+            "amount": 0.5998
+          }
+        ],
+        "timestamp": 1761755368.909337,
+        "txid": "e634c9f860862c11a3f5f8410933b22f3e84b6fff496adc895cca55146e52d92",
+        "signature": "f47544ce3d1b4c1bfa5c0fbf165afe62fa533a956e872f760fc1176464f85269f149cc02207d59904b90007297d1c75dfa7a86e558772f9f4e566b436c60aef4"
+      }
+    ],
+    "miner": "cb0d33be01fafad01a4229b73ac1c3a5e1",
+    "nonce": 3281,
+    "hash": "0002d63d51184ce2d0c33e7c6e43d868edeb6b5d17c98e2c0d91d055ffa6fcea"
+  }
+]
